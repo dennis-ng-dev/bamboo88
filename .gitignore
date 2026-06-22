@@ -1,0 +1,12 @@
+# Dependencies / build
+node_modules/
+.vercel/
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*.log
+
+# Original source assets (already exported into assets/img/)
+*.pdf
+z*.jpg
